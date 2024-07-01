@@ -5,3 +5,17 @@ h1{
     text-align: center;
     font-family: "Arial", serif;
 }
+
+.botton{
+    background-color: darkorange;
+    font-size: 30px;
+    color: white;
+    transition-duration: 0.4s;
+}
+
+.botton:hover{
+    background-color: white;
+    color: darkorange;
+    border: 2px solid darkorange;
+
+}
