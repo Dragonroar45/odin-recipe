@@ -11,15 +11,38 @@ h1{
     font-size: 30px;
     color: white;
     transition-duration: 0.4s ;
+    font-family: "Arial", serif;
+    font-weight: bold;
 }
 
 .botton:hover{
     background-color: white;
     color: darkorange;
     border: 2px solid darkorange;
+    font-family: "Arial", serif;
 
 }
 
 .one{
     font-size: 30px;
+}
+
+.botton2{
+    font-size: 30px;
+    font-family: "Arial", serif;
+    background-color: rgb(12, 226, 12);
+    color: white;
+    font-weight: bold;
+    font-family: "Arial", serif;
+    transition-duration: 0.4s;
+    font-weight: 30px;
+
+}
+
+.botton2:hover{
+    background-color: white;
+    color: rgb(12, 226, 12);
+    border: 2px solid rgb(12, 226, 12);
+    font-family: "Arial", serif;
+
 }
