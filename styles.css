@@ -62,3 +62,7 @@ h1{
     font-weight: bold;
     font-family: "Arial", serif;
 }
+
+button{
+    margin-bottom: 10px;
+}
